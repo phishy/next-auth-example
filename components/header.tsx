@@ -64,7 +64,7 @@ export default function Header() {
           )}
         </p>
       </div>
-      <nav>
+      {/* <nav>
         <ul className={styles.navItems}>
           <li className={styles.navItem}>
             <Link href="/">
@@ -102,7 +102,7 @@ export default function Header() {
             </Link>
           </li>
         </ul>
-      </nav>
+      </nav> */}
     </header>
   )
 }
